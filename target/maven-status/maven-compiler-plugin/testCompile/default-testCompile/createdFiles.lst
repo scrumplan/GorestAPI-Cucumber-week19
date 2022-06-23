@@ -1,0 +1,3 @@
+in\co\gorest\testbase\TestBase.class
+in\co\gorest\cucumber\CucumberRunner.class
+in\co\gorest\cucumber\steps\UserStepdefs.class
